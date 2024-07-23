@@ -3,5 +3,5 @@ MUQADAS ADAN IT CENTER
 hello zaman
 ```
 ```sh
-link:
+https://github.com/shaheryarmushtaq/CentOs-DevOps.git
 ```
